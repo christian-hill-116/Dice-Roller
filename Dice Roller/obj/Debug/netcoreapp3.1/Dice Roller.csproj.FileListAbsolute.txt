@@ -1,0 +1,16 @@
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\Week4\Dice Roller\Dice Roller\bin\Debug\netcoreapp3.1\Dice Roller.exe
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\Week4\Dice Roller\Dice Roller\bin\Debug\netcoreapp3.1\Dice Roller.deps.json
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\Week4\Dice Roller\Dice Roller\bin\Debug\netcoreapp3.1\Dice Roller.runtimeconfig.json
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\Week4\Dice Roller\Dice Roller\bin\Debug\netcoreapp3.1\Dice Roller.runtimeconfig.dev.json
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\Week4\Dice Roller\Dice Roller\bin\Debug\netcoreapp3.1\Dice Roller.dll
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\Week4\Dice Roller\Dice Roller\bin\Debug\netcoreapp3.1\Dice Roller.pdb
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\Week4\Dice Roller\Dice Roller\obj\Debug\netcoreapp3.1\Dice Roller.csprojAssemblyReference.cache
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\Week4\Dice Roller\Dice Roller\obj\Debug\netcoreapp3.1\Dice_Roller.DiceRoll.resources
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\Week4\Dice Roller\Dice Roller\obj\Debug\netcoreapp3.1\Dice_Roller.Properties.Resources.resources
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\Week4\Dice Roller\Dice Roller\obj\Debug\netcoreapp3.1\Dice Roller.csproj.GenerateResource.cache
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\Week4\Dice Roller\Dice Roller\obj\Debug\netcoreapp3.1\Dice Roller.AssemblyInfoInputs.cache
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\Week4\Dice Roller\Dice Roller\obj\Debug\netcoreapp3.1\Dice Roller.AssemblyInfo.cs
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\Week4\Dice Roller\Dice Roller\obj\Debug\netcoreapp3.1\Dice Roller.csproj.CoreCompileInputs.cache
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\Week4\Dice Roller\Dice Roller\obj\Debug\netcoreapp3.1\Dice Roller.dll
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\Week4\Dice Roller\Dice Roller\obj\Debug\netcoreapp3.1\Dice Roller.pdb
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\Week4\Dice Roller\Dice Roller\obj\Debug\netcoreapp3.1\Dice Roller.genruntimeconfig.cache
